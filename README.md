@@ -40,7 +40,7 @@ out.
 Java SE and the `java.util.concurrent` package. The project was developed in
 NetBeans, and the `nbproject` files are included so it opens directly there.
 
-## Getting started
+## Instructions to run
 
 **In NetBeans:** open the project folder and run it. The main class is
 `gogocoffeecafe.GoGoCoffeeCafe`.
